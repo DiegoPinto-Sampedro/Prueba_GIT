@@ -1,2 +1,1 @@
-Voy a hacer un cambio otra vez y otra
-
+Vamos a modificar este archivo para explicar como deshacer cambios
