@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hola  este el archivo 3 para explicar git y GitHub.
 
 Vamos a corregir este archivo saludando
+=======
+Vamos a realizar otra prueba y comprobamos que se actualizan los campos
+>>>>>>> main
